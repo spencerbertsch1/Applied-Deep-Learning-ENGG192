@@ -4,3 +4,12 @@ Mostly transfer learning, but there are several other forseable use cases for Te
 
 A guide to Tensorflow.js can be found [here.](https://js.tensorflow.org/)
 
+### Installing TensorFlow.js
+
+**For OSX:** <br>
+Simply open a terminal and run the command `pip install tensorflowjs`
+
+
+### Importing pretrained models in Keras into TensorFlow.js
+
+See the link to Google's page [here.](https://js.tensorflow.org/tutorials/import-keras.html) There are a few format changes that need do be made before that transfer can happen. 
