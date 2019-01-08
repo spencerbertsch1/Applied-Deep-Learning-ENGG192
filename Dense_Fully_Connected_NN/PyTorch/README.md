@@ -1,3 +1,3 @@
 # Pytorch Dense NN 
 
-Using dense NNs in Pytorch to predict results of hockey games. 
+Using dense NNs in Pytorch to predict results of basketball games. 
