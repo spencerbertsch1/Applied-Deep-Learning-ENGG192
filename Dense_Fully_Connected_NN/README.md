@@ -6,3 +6,9 @@ Both tensorflow and pytorch will be used to create the netoworks. Their performa
 
 The data source for this section can be found [here](https://www.kaggle.com/martinellis/nhl-game-data/version/1#_=_) thanks to the Kaggle of [Martin Ellis](https://www.kaggle.com/martinellis). 
 
+### Packages and Libraries
+
+In order to run this code, you will need to have both TensorFlow and PyTorch installed on your machine. 
+
+If you're running MacOS, then simply open a command window and run the following commands to install the necessary libraries. 
+
