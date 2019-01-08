@@ -6,8 +6,6 @@ Both tensorflow and pytorch will be used to create the netoworks. Their performa
 
 APIs such as Keras and TFLearn will be used, see installation guidelines below. 
 
-
-
 The data source for this section can be found [here](https://www.kaggle.com/ionaskel/nba-games-stats-from-2014-to-2018#nba.games.stats.csv). 
 
 # Packages and Libraries
