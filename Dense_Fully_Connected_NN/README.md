@@ -12,7 +12,8 @@ The data source for this section can be found [here](https://www.kaggle.com/mart
 
 In order to run this code, you will need to have both TensorFlow and PyTorch installed on your machine. 
 
-If you're **running MacOS**, then simply open a command window and run the following commands to install the necessary libraries. 
+## For MacOS
+Simply open a command window and run the following commands to install the necessary libraries. 
 
 1. Run `pip install --upgrade tensorflow` to make sure your version of TensorFlow is up to date
 2. Run `pip install tflearn` 
