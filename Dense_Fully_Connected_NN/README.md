@@ -10,10 +10,11 @@ The data source for this section can be found [here](https://www.kaggle.com/mart
 
 In order to run this code, you will need to have both TensorFlow and PyTorch installed on your machine. 
 
-If you're running MacOS, then simply open a command window and run the following commands to install the necessary libraries. 
+If you're **running MacOS**, then simply open a command window and run the following commands to install the necessary libraries. 
 
 1. Run `pip install --upgrade tensorflow`
 2. Run `pip install tflearn` 
-3. Run `pip install keras` 
-4. If you're not using a virtual environment, Run: `sudo pip install keras` 
+3. If you're not using a virtual environment, Run: `sudo pip install keras` <br> 
 If you're using a virtual environment, Run: `pip install keras` 
+4. Run `pip3 install torch torchvision` 
+
