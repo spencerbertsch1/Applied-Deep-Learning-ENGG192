@@ -20,7 +20,3 @@ Simply open a command window and run the following commands to install the neces
 3. If you're not using a virtual environment, Run: `sudo pip install keras` <br> 
 If you're using a virtual environment, Run: `pip install keras` 
 4. Run `pip3 install torch torchvision` 
-
-## For Windows
-
-1. 
