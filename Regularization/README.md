@@ -1,0 +1,3 @@
+# Regularization Techniques for Deep Learning 
+
+The data source for this notebook is the ["Audit Data"](https://archive.ics.uci.edu/ml/datasets/Audit+Data#) dataset which is held in the public UCI Machine Learning Data Repository. To quote the above source, "The goal of the research is to help the auditors by building a classification model that can predict the fraudulent firm on the basis the present and historical risk factors." [Source](https://archive.ics.uci.edu/ml/datasets/Audit+Data#) As mentioned, this dataset is relatively small, but becasue the data is numerical and the label vector is binary, it makes it a simple use case for using different regularization techniques. 
