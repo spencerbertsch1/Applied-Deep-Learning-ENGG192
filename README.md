@@ -5,7 +5,7 @@ Independent study focusing in various deep learning topics - Dartmouth College, 
 
 The projects in this repository use a variety of deep learning labraries and python packages. In order to run most of the code, you will need to have both TensorFlow and PyTorch installed on your machine.
 
-## For MacOS
+## For MacOS 
 Simply open a command window and run the following commands to install the necessary libraries. 
 
 1. Run `pip install --upgrade tensorflow` to make sure your version of TensorFlow is up to date
