@@ -25,3 +25,26 @@ If you're using a virtual environment, Run: `pip install keras`
 
 Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
+* Fully Connected Networks
+  * [NBA PyTorch]()
+  * [NBA TF - Keras]()
+  * [Regularization - Mushroom Toxicity]()
+  * [Others]()
+
+* Optimization and Regularization 
+  * [Mushroom Toxicity]()
+  * [Breast Histology]()
+  
+* Convolutional Networks 
+  * [MNIST]()
+  * [Breast Histology]()
+
+* Recurrent Networks 
+  * [Sine Wave Prediction]()
+  * [Stock Market Data Prediction]()
+  
+* Final Project - Seq2seq Translator 
+  * [Translator notebook]()
+  * [Final slide deck]()
+  * [Final Paper]()
+
