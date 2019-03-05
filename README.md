@@ -26,22 +26,22 @@ If you're using a virtual environment, Run: `pip install keras`
 Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
 * Fully Connected Networks
-  * [NBA PyTorch]()
-  * [NBA TF - Keras]()
+  * [NBA - March Madness Classification - PyTorch]()
+  * [NBA - March Madness Classification - T.F. Keras]()
   * [Regularization - Mushroom Toxicity]()
-  * [Others]()
+  * [XOR Example]()
 
 * Optimization and Regularization 
-  * [Mushroom Toxicity]()
-  * [Breast Histology]()
+  * [Mushroom Toxicity Example]()
+  * [Breast Histology Classification]()
   
 * Convolutional Networks 
-  * [MNIST]()
-  * [Breast Histology]()
+  * [MNIST Classification with 2D ConvNet]()
+  * [Breast Histology Classification with 3D ConvNet]()
 
 * Recurrent Networks 
   * [Sine Wave Prediction]()
-  * [Stock Market Data Prediction]()
+  * [Naive Stock Market Data Prediction]()
   
 * Final Project - Seq2seq Translator 
   * [Translator notebook]()
