@@ -26,8 +26,8 @@ If you're using a virtual environment, Run: `pip install keras`
 Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
 * Fully Connected Networks
-  * [NBA - March Madness Classification - PyTorch]()
-  * [NBA - March Madness Classification - T.F. Keras]()
+  * [NBA Winner Prediction - PyTorch]()
+  * [NBA Winner Prediction - T.F. Keras]()
   * [Regularization - Mushroom Toxicity]()
   * [XOR Example]()
 
