@@ -48,3 +48,5 @@ Independent study focusing in various deep learning topics - Dartmouth College, 
   * [Final slide deck]()
   * [Final Paper]()
 
+* Just for fun! 
+  * [TensorFlow.js Model Approximation]()
