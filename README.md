@@ -51,4 +51,4 @@ If you're using a virtual environment, Run: `pip install keras`
   * [Final Paper]()
 
 * Just for fun! 
-  * [TensorFlow.js Model Approximation]()
+  * [TensorFlow.js Model Approximation](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/TensorFlow.js/UserInput_Model/user_input_model.html)
