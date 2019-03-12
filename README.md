@@ -2,7 +2,7 @@
 <img width="500" alt="ml_img" src="https://cdn-images-1.medium.com/max/1200/1*KKADWARPMxHb-WMxCgW_xA.png">
 
 # Deep-Learning
-Independent study focusing in various deep learning topics <br> Dartmouth College, Winter 2019
+Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
 
 
