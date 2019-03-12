@@ -4,11 +4,9 @@
 # Deep-Learning
 Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
+## Dependencies
 
-
-## Packages and Libraries
-
-The projects in this repository use a variety of deep learning labraries and python packages. In order to run most of the code, you will need to have both TensorFlow and PyTorch installed on your machine. Other important packages include Pandas, Numpy, and Matplotlib.
+The projects in this repository use a variety of deep learning labraries and python packages. In order to run most of the code, you will need to have both TensorFlow and PyTorch installed on your machine. Other important depedencies include Pandas, Numpy, and Matplotlib.
 
 ## For MacOS 
 Simply open a command window and run the following commands to install the necessary libraries. 
@@ -23,8 +21,6 @@ If you're using a virtual environment, Run: `pip install keras`
 7. Run `pip3 matplotlib` 
 
 # Projects and Assignments 
-
-Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
 * Fully Connected Networks
   * [NBA Winner Prediction - PyTorch](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Dense_Fully_Connected_NN/PyTorch/NBA_Example_Feedforward.ipynb)
