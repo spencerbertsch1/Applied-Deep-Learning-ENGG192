@@ -5,6 +5,7 @@
 Independent study focusing in various deep learning topics - Dartmouth College, Winter 2019
 
 
+
 ## Packages and Libraries
 
 The projects in this repository use a variety of deep learning labraries and python packages. In order to run most of the code, you will need to have both TensorFlow and PyTorch installed on your machine. Other important packages include Pandas, Numpy, and Matplotlib.
