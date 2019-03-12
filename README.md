@@ -45,7 +45,7 @@ If you're using a virtual environment, Run: `pip install keras`
 * Autoencoders
   * [Simple MNIST Autoendocer]()
   
-* Final Project - Seq2seq Translator 
+* Final Project - Optimizing Seq2seq Translator 
   * [Translator notebook]()
   * [Final slide deck]()
   * [Final Paper]()
