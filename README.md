@@ -39,7 +39,7 @@ If you're using a virtual environment, Run: `pip install keras`
 * Recurrent Networks 
   * [Sine Wave Prediction](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Recurrent_Neural_Networks/Sine_Wave_Prediction/Sine_Wave_Prediction_RNNs.ipynb)
   * [Naive Stock Market Data Prediction](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Recurrent_Neural_Networks/AAPL_Stock_Prediction/RNN_Finance_Application.ipynb)
-  * [Slide Deck - Vanishing and Exploding Gradients]()
+  * [Slide Deck - Vanishing and Exploding Gradients](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Recurrent_Neural_Networks/AAPL_Stock_Prediction/Simple%20stock%20prediction%20ecercise.pdf)
   
   
 * Autoencoders
