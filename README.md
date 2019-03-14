@@ -45,9 +45,9 @@ If you're using a virtual environment, Run: `pip install keras`
   * [Simple MNIST Autoendocer](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Autoencoders/Simple%20Autoencoder%20Experiments.ipynb)
   
 * Final Project - Optimizing Seq2seq Translator 
-  * [Translator notebook]()
-  * [Final slide deck]()
-  * [Final Paper]()
+  * [Optimization notebook](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Final_Project/Translator-PyTorch/Optimized_Seq2seq_Translator.ipynb)
+  * [Final slide deck](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Final_Project/RNNs%20Final%20Project%20Presentation.pdf)
+  * [Final Paper](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Final_Project/Optimization_of_Encoder_Decoder_Model_Bertsch.pdf)
 
 * Just for fun! 
   * [TensorFlow.js Model Approximation](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/TensorFlow.js/UserInput_Model/user_input_model.html)
